@@ -17,6 +17,7 @@
 * [Commits](fundamental/commits.md)
 * [Pull and Push](fundamental/pull-and-push.md)
 * [WorkFlow](fundamental/workflow.md)
+* [SSH Setup](fundamental/ssh-setup.md)
 
 ## 🔵 Commands
 
